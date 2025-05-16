@@ -1,29 +1,86 @@
 <h1 align="center">👋 Hi, I'm Steward Apostol</h1>
-<p align="center">⚡ Android Developer | Kotlin Enthusiast | Clean Code Advocate</p>
+<p align="center">⚡ Kotlin-First Android Engineer | Mobile, Tablet & TV/STB Specialist | Full-Stack Android with Firebase, XMPP & WebRTC</p>
 
 ---
 
 ## 🚀 About Me
 
-🎯 Experienced Android Developer with **7+ years** of building scalable, high-performance native apps using **Kotlin**, **Java**, and **C++**.
+🎯 Kotlin-first Android Developer with **7+ years** of experience crafting seamless, high-performance native apps across **phones**, **tablets**, **Android TV**, and **STB** devices using **Kotlin**, **Java**, **C++**, and **Kotlin Multiplatform (KMP)**.
 
-💡 Skilled in designing reusable architecture components, contributing to backend Java services, and mentoring fellow developers.
+📱 Adept at building fluid mobile and tablet user experiences with Compose UI, Coroutines, and modern Jetpack libraries.
 
-🔍 Passionate about clean code, delightful user experiences, and staying ahead of Android development trends.
+📺 Specialized in **Android TV**/**STB** development: custom launchers, app curation logic, remote navigation UX, and compliance with XDS specs and certification requirements.
 
-🧰 Strong believer in **code reviews**, **modularization**, and **developer-first culture**.
+🌐 Backend-savvy with hands-on experience integrating:
+- **Firebase** (Auth, Firestore, Messaging, Remote Config, Crashlytics)
+- **XMPP** for real-time messaging
+- **VoIP & WebRTC** for call and video features
+
+🧱 Passionate about modular architecture, reusable components, clean code practices, and scalable multi-platform solutions using **Kotlin Multiplatform**.
+
+👨‍🏫 Strong communicator, team collaborator, and mentor to junior developers.
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+### 👨‍💻 Languages & Platforms
+<p align="left">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin%20Multiplatform-3A3A3A?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+</p>
+
+### 🧱 Frameworks & Libraries
+<p align="left">
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
+  <img src="https://img.shields.io/badge/ViewModel-3F51B5?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/LiveData-FF7043?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Room-607D8B?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Coil-008080?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ktor-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
+</p>
+
+### ⚙️ Architecture & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Coroutines-FF6F00?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flow-4CAF50?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/DataStore-9C27B0?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin%20Serialization-F57C00?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
+
+### 🔌 Backend & Realtime Tech
+<p align="left">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/XMPP-0061A8?style=for-the-badge&logo=messenger&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
+  <img src="https://img.shields.io/badge/VoIP-5E35B1?style=for-the-badge&logo=android&logoColor=white" />
+</p>
+
+---
+
+## 📱 Platform Expertise
+
+### ✅ Mobile & Tablets
+- Jetpack Compose UI & responsive layouts
+- MVVM with Kotlin Flow, LiveData
+- Local persistence with Room & DataStore
+- Deep Firebase integration (Auth, Analytics, Messaging, A/B Testing)
+
+### ✅ Android TV & STB
+- Custom Launcher development & app ordering logic
+- Leanback components and D-pad navigation
+- Remote UI optimization and TalkBack accessibility
+- Game metadata, OOBE flow, XDS specs compliance
+- STB memory & performance optimization
+
+### ✅ Kotlin Multiplatform (KMP)
+- Code sharing across Android, iOS, backend
+- Multiplatform libraries using Ktor, Serialization, Coroutines
+- KMP adoption in greenfield and brownfield projects
 
 ---
 
@@ -46,4 +103,4 @@
 
 ---
 
-<p align="center">Thanks for stopping by! ✨</p>
+<p align="center">Thanks for visiting my profile! ✨</p>
